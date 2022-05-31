@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { Player, Controls } from '@lottiefiles/react-lottie-player';
+import { Player} from '@lottiefiles/react-lottie-player';
 
 import { HeaderNavbar, Footer } from '@component';
 import { motion } from "framer-motion"

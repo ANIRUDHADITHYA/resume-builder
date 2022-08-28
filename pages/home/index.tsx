@@ -15,7 +15,7 @@ export default function Home() {
                 <section className={['row', styles.first].join(' ')}>
                     <div className={['col-md-6', styles.firstLeft].join(' ')}>
                         <h1>Hi, Welcome to Resume Builder</h1>
-                        <p>design your resume easier and faster</p>
+                        <p>design your resume faster and easier</p>
 
                         <div className={styles.crBtn}>
                             <Link href="/resume-builder">
